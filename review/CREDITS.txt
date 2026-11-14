@@ -1,0 +1,54 @@
+Inkwell Monkey — Sample Comics for App Review
+==============================================
+
+These files are for testing Inkwell Monkey (Mac App Store). Everything here
+is in the public domain, CC0, CC BY 4.0, or made by Amaki Studio. Inkwell
+Monkey itself contains no comics and never downloads any; it only reads
+files the user already has, in place, without changing them.
+
+How to use
+----------
+1. Unzip this file.
+2. In Inkwell Monkey, click "Add Comics" and choose the folder
+   "Inkwell Monkey Review Comics" (or drag the folder onto the window).
+3. 14 books appear (shown as 9 shelf items: series are grouped). All of them are readable in the free version
+   (the free version allows the first 20 books added).
+
+What each item shows
+--------------------
+- Pepper&Carrot/ (3 episodes, CBZ) .... grouped into one series; click it to
+                                        expand; double-page reading (press 2)
+- Hokusai Manga/ (2 volumes, CBZ) ...... right-to-left reading, two-page spreads
+- Little Nemo/ ......................... one PDF and one plain image folder
+                                        (two formats, one series)
+- One More Chapter (Webtoon).cbz ....... vertical scrolling (webtoon mode)
+- The Lamp on Harbor Street.epub ....... text book reader (horizontal)
+- 霧の港（縦書き）.epub .................. text book reader (Japanese vertical)
+- Atomic Mouse, Blue Bolt, Jetta,
+  Skyman (CBZ, cover only) ............. single books on the shelf
+
+Sources and licenses
+--------------------
+Pepper&Carrot, episodes 30, 37, 39
+  Pepper&Carrot by David Revoy – www.peppercarrot.com – CC BY 4.0
+  https://creativecommons.org/licenses/by/4.0/
+  Changes by Amaki Studio: added a cover image (the episode title banner placed
+  over page 1); pages resized to 1800 px wide; packed into CBZ.
+
+Hokusai Manga (北斎漫画), volumes 1 and 2 — Katsushika Hokusai, 1814–1815
+  Images: The Metropolitan Museum of Art, Open Access, CC0
+  https://www.metmuseum.org/art/collection/search/78791
+  Changes: cover cropped from the museum photo; images resized to 2600 px.
+
+Little Nemo in Slumberland — Winsor McCay, New York Herald, Nov 1905 – Jun 1906
+  Public domain. Scans from Wikimedia Commons ("Little Nemo YYYY-MM-DD.jpg").
+
+Atomic Mouse #1 (1953), Blue Bolt #2 (1940), Jetta of the 21st Century #5
+(1952), Skyman #3 (1947) — covers only
+  Public domain (US publications whose copyright expired or was not renewed).
+  Scans from Wikimedia Commons.
+
+One More Chapter (Webtoon), The Lamp on Harbor Street, 霧の港
+  Original sample content made by Amaki Studio for testing.
+
+Amaki Studio · https://amakistudio.github.io/inkwellmonkey/
