@@ -11,7 +11,7 @@ How to use
 1. Unzip this file.
 2. In Inkwell Monkey, click "Add Comics" and choose the folder
    "Inkwell Monkey Review Comics" (or drag the folder onto the window).
-3. 14 books appear (shown as 9 shelf items: series are grouped). All of them are readable in the free version
+3. 14 books appear (series are grouped automatically, so the shelf shows 10 items). All of them are readable in the free version
    (the free version allows the first 20 books added).
 
 What each item shows
